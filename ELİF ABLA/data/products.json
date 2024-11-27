@@ -1,0 +1,11 @@
+[
+    { "id": 1, "name": "Eli Böğründe", "description": "Kuzu eti, patates ve domatesle hazırlanan yöresel bir lezzet.", "image": "img/eli_bogrunde.jpg", "price": "150 TL" },
+    { "id": 2, "name": "Maraş Tarhanası", "description": "Maraş'a özgü doğal kurutulmuş tarhana çorbası.", "image": "img/maras_tarhanasi.jpg", "price": "50 TL" },
+    { "id": 3, "name": "Dolma (Zeytinyağlı)", "description": "Asma yaprağına sarılmış pirinçli dolma.", "image": "img/dolma.jpg", "price": "120 TL" },
+    { "id": 4, "name": "Maraş İçli Köfte", "description": "Kıyma ve cevizle hazırlanan özel içli köfte.", "image": "img/icli_kofte.jpg", "price": "140 TL" },
+    { "id": 5, "name": "Ekşili Çorba", "description": "Limon ve nohutlu ekşi bir çorba.", "image": "img/eksili_corba.jpg", "price": "70 TL" },
+    { "id": 6, "name": "Maraş Katmeri", "description": "Yufka, kaymak ve şekerle hazırlanan tatlı.", "image": "img/maras_katmeri.jpg", "price": "90 TL" },
+    { "id": 7, "name": "Patlıcan Borani", "description": "Yoğurtlu ve etli bir patlıcan yemeği.", "image": "img/patlican_borani.jpg", "price": "110 TL" },
+    { "id": 8, "name": "Maraş Çöreği", "description": "Kahvaltılarda tercih edilen özel çörek.", "image": "img/maras_coregi.jpg", "price": "60 TL" }
+  ]
+  
